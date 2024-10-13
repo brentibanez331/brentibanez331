@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![brentibanez331's Stats](https://github-readme-stats.vercel.app/api?username=brentibanez331&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![brentibanez331's Stats](https://github-readme-stats.vercel.app/api?username=brentibanez331&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ### Communities
 * Academic Affairs Head & Mentor at Computer Science Society - USLS.
