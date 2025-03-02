@@ -24,7 +24,7 @@
   <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-E10098?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-F9A03C?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000" />
+  <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=000" />
   
 </p>
 
