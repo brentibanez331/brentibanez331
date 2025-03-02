@@ -17,6 +17,16 @@
 - 🌱 I’m currently learning about Distributed Systems
 <!-- - 🍔 Founder TasteBuds -->
 
+<h3>Main stack</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5849BE?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-E10098?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-F9A03C?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
 <h3>Things I code with</h3>
 <p>
 
@@ -28,10 +38,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-B7178C?style=flat-square&logo=php&logoColor=white" /> 
 
   <!-- Frameworks and Libraries -->
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5849BE?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-E10098?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
+  
   <img alt="ASP.NET MVC" src="https://img.shields.io/badge/-ASP.NET%20MVC-311C87?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-764ABC?style=flat-square&logo=django&logoColor=white" />
@@ -54,7 +61,7 @@
 
   <!-- Database -->
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-F9A03C?style=flat-square&logo=postgresql&logoColor=white" />
+  
 
 
 </p>
