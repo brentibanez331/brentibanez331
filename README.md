@@ -11,7 +11,8 @@
 </p>
 
 <p>Welcome to my page! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </br> I'm Brent, a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="13"/> <b>The Philippines</b>
-, currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Metro Manila</b>. </p>
+, currently based in <b>Metro Manila</b>. </p> 
+<!-- <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>  -->
 
 - 🔭 I’m currently working on an AI Job Matching Platform for Entry Levels
 - 🌱 I’m currently learning about NLP and RAG
