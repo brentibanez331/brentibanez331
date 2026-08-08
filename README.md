@@ -35,10 +35,7 @@
   <img alt="Google Cloud Platform"src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/ba-square&logo=git&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
-
-    ### Communities
-* Former VP for Programs at DEVCON Bacolod     
+</p> 
     
 <h3>Where to find me</h3>                                              
 <p>
