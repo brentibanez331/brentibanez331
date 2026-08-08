@@ -28,7 +28,7 @@
 <h3>Also code with</h3>
 <p>
   <img alt="Javascript"src="https://img.shields.io/badge/-JavaScript-ea2845?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.iole=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Tailwind CSS"src="https://img.shields.io/badge/-TailwindCSS-CC6699?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
