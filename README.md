@@ -37,9 +37,9 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p> 
     
-<h3>Where to find me</h3>                                              
+<h3>Where to find me</h3>
 <p>
-  <a href="https://brentibanez.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2300dge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/brentibanez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230adge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/brentibanez_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312dge&logo=x&logoColor=white" /></a>
+  <a href="https://brentibanez.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brentibanez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/brentibanez_" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
