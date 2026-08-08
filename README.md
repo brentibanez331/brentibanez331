@@ -34,10 +34,14 @@
   <img alt="Firebase" src="https://img.shields.style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="Google Cloud Platform"src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/ba-square&logo=git&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?sty</p>
-                                                                       ### Communities
-* Former VP for Programs at DEVCON Bacolod                             
-<h3>Where to find me</h3>                                              <p>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
+
+    ### Communities
+* Former VP for Programs at DEVCON Bacolod     
+    
+<h3>Where to find me</h3>                                              
+<p>
   <a href="https://brentibanez.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2300dge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/brentibanez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230adge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/brentibanez_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312dge&logo=x&logoColor=white" /></a>
