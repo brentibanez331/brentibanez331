@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey! Nice to see you.</h1>
 <!-- Profile Views -->
-
+<!--
 [![LeetCode](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frenibanez&logo=leetcode&logoColor=yellow)](https://leetcode.com/renibanez/)
 <img src="https://komarev.com/ghpvc/?username=brentibanez331" alt="Profile Views" /> 
-
+-->
 <p align="center">
   <!-- Profile Views -->
   
