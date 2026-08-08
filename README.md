@@ -31,7 +31,7 @@
   <img alt="Python" src="https://img.shields.iole=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Tailwind CSS"src="https://img.shields.io/badge/-TailwindCSS-CC6699?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.style=flat-square&logo=firebase&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="Google Cloud Platform"src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/ba-square&logo=git&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
